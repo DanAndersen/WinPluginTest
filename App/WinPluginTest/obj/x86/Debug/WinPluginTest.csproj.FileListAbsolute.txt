@@ -215,3 +215,9 @@ C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\bin\x86\Debug\Org.WebRtc.dll
 C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\bin\x86\Debug\Org.WebRtc.pri
 C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\bin\x86\Debug\Org.WebRtc.winmd
 C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\obj\x86\Debug\Org.WebRtc.pri.xml
+C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\bin\x86\Debug\Newtonsoft.Json.pdb
+C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\bin\x86\Debug\EngineIoClientDotNet.dll
+C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\bin\x86\Debug\SocketIoClientDotNet.dll
+C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\bin\x86\Debug\EngineIoClientDotNet.pdb
+C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\bin\x86\Debug\SocketIoClientDotNet.pdb

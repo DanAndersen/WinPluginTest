@@ -7,9 +7,9 @@
 # Default behavior is to never overwrite files
 WinPluginTest.sln: 19FABFE5B12964DF621A6953F5538C43
 WinPluginTest\App.cs: C9A1F65187AD0DCD90B3ECF3BC57DDCA
-WinPluginTest\Package.appxmanifest: A03C15784EAA0E7951F0AD17137AD585
+WinPluginTest\Package.appxmanifest: 0E1325474B603754DB381598AE551C17
 WinPluginTest\project.json: modified
-WinPluginTest\WinPluginTest.csproj: 37CA19B5889AA9CE669729E0A05E3804
+WinPluginTest\WinPluginTest.csproj: FA52BD3EEAC035634CB1757DD06E48DE
 WinPluginTest\WinPluginTest.csproj.user: modified
 WinPluginTest\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
 WinPluginTest\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084

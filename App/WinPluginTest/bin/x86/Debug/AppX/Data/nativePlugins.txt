@@ -1,4 +1,2 @@
 MicStreamSelector.dll
 SharingClient.dll
-SpatialUnderstanding.dll
-PlaneFinding.dll

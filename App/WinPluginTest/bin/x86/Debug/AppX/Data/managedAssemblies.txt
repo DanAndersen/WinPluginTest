@@ -1,7 +1,10 @@
 Assembly-CSharp.dll
 UnityEngine.Analytics.dll
 WSAUnity.dll
+EngineIoClientDotNet.dll
 UnityEngine.UI.dll
 UnityEngine.HoloLens.dll
 UnityEngine.Networking.dll
+Newtonsoft.Json.dll
 UnityEngine.VR.dll
+SocketIoClientDotNet.dll

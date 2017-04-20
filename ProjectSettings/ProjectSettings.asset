@@ -409,27 +409,27 @@ PlayerSettings:
       AllJoyn: False
       BlockedChatMessages: False
       Bluetooth: False
-      Chat: False
+      Chat: True
       CodeGeneration: False
       EnterpriseAuthentication: False
       HumanInterfaceDevice: False
       InputInjectionBrokered: False
       InternetClient: True
-      InternetClientServer: False
+      InternetClientServer: True
       Location: False
       Microphone: True
       MusicLibrary: False
       Objects3D: False
       PhoneCall: False
       PicturesLibrary: False
-      PrivateNetworkClientServer: False
+      PrivateNetworkClientServer: True
       Proximity: False
       RemovableStorage: False
       SharedUserCertificates: False
       SpatialPerception: True
       UserAccountInformation: False
       VideosLibrary: False
-      VoipCall: False
+      VoipCall: True
       WebCam: True
   metroFTAName: 
   metroFTAFileTypes: []

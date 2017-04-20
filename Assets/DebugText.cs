@@ -11,6 +11,8 @@ public class DebugText : HoloToolkit.Unity.Singleton<DebugText> {
 
     public int MaxNumMessages = 16;
 
+    private bool textNeedsUpdate = false;
+
 	// Use this for initialization
 	void Start () {
         DebugLogStrings = new List<string>();
@@ -21,21 +23,25 @@ public class DebugText : HoloToolkit.Unity.Singleton<DebugText> {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		if (textNeedsUpdate)
+        {
+            UpdateText();
+            textNeedsUpdate = false;
+        }
 	}
 
     public void Clear()
     {
         DebugLogStrings.Clear();
 
-        UpdateText();
+        textNeedsUpdate = true;
     }
 
     public void AddMessage(string msg)
     {
         DebugLogStrings.Add(msg);
 
-        UpdateText();
+        textNeedsUpdate = true;
     }
 
     void UpdateText()

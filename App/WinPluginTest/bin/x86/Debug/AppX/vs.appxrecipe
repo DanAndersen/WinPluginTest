@@ -16,25 +16,25 @@
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
-    <RegisteredManifestChecksum>6A1843B4C3549F0090D56AA1068A8041266E3B3F3AF31F0FC69DEAFB5EFD7EC5</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>6E0286EAF1BE0FB15687CF88D5571949AA2D8818F3DD2F465AFD3DF11D75775E</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>WinPluginTest_1.0.0.0_x86__pzq3xp76mxafg</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>WinPluginTest_pzq3xp76mxafg!App</RegisteredUserModeAppID>
     <RegisteredPackageID>WinPluginTest</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=DefaultCompany</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
-    <JitOptimizationSuppressed>False</JitOptimizationSuppressed>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-04-05T18:18:03.092</Modified>
+      <Modified>2017-04-20T20:29:41.734</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\bin\x86\Debug\WinPluginTest.exe">
       <PackagePath>entrypoint\WinPluginTest.exe</PackagePath>
-      <Modified>2017-04-05T18:17:40.357</Modified>
+      <Modified>2017-04-20T20:29:29.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\andersed\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -474,7 +474,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Unprocessed\WSAUnity.dll">
       <PackagePath>WSAUnity.dll</PackagePath>
-      <Modified>2017-04-05T17:25:14.377</Modified>
+      <Modified>2017-04-20T20:01:17.605</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\dotnet\x86\Debug\UnityPlayer.dll">
       <PackagePath>UnityPlayer.dll</PackagePath>
@@ -510,7 +510,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2017-04-05T18:11:15.600</Modified>
+      <Modified>2017-04-20T20:29:11.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -554,21 +554,13 @@
       <PackagePath>SharingClient.dll</PackagePath>
       <Modified>2017-01-24T18:27:39.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\SpatialUnderstanding.dll">
-      <PackagePath>SpatialUnderstanding.dll</PackagePath>
-      <Modified>2017-04-04T17:39:23.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\PlaneFinding.dll">
-      <PackagePath>PlaneFinding.dll</PackagePath>
-      <Modified>2016-09-16T16:02:20.000</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2017-04-05T18:10:50.391</Modified>
+      <Modified>2017-04-20T20:28:39.088</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2017-04-05T18:10:49.234</Modified>
+      <Modified>2017-04-20T20:28:37.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -576,27 +568,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2017-04-05T18:10:51.062</Modified>
+      <Modified>2017-04-20T20:28:39.661</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2017-04-05T18:10:50.606</Modified>
+      <Modified>2017-04-20T20:28:39.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2017-04-05T18:10:50.723</Modified>
+      <Modified>2017-04-20T20:28:39.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2017-04-05T18:10:49.233</Modified>
+      <Modified>2017-04-20T20:28:37.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Data\sharedassets0.assets.resS">
+      <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
+      <Modified>2017-04-20T20:28:39.314</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2017-04-05T18:11:15.546</Modified>
+      <Modified>2017-04-20T20:29:11.268</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2017-04-05T18:11:15.548</Modified>
+      <Modified>2017-04-20T20:29:11.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.14393.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -608,39 +604,51 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2017-04-05T18:17:41.372</Modified>
+      <Modified>2017-04-20T20:23:21.563</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2017-04-05T18:17:49.379</Modified>
+      <Modified>2017-04-20T20:29:38.736</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2017-04-05T18:17:50.576</Modified>
+      <Modified>2017-04-20T20:29:39.838</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\UnityEngine.Analytics.dll">
       <PackagePath>UnityEngine.Analytics.dll</PackagePath>
-      <Modified>2017-04-05T18:17:50.600</Modified>
+      <Modified>2017-04-20T20:29:39.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\EngineIoClientDotNet.dll">
+      <PackagePath>EngineIoClientDotNet.dll</PackagePath>
+      <Modified>2017-04-20T20:29:39.896</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2017-04-05T18:17:50.738</Modified>
+      <Modified>2017-04-20T20:29:40.413</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2017-04-05T18:17:50.783</Modified>
+      <Modified>2017-04-20T20:29:40.450</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2017-04-05T18:17:50.893</Modified>
+      <Modified>2017-04-20T20:29:40.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2017-04-20T20:29:40.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\UnityEngine.VR.dll">
       <PackagePath>UnityEngine.VR.dll</PackagePath>
-      <Modified>2017-04-05T18:17:50.913</Modified>
+      <Modified>2017-04-20T20:29:40.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\SocketIoClientDotNet.dll">
+      <PackagePath>SocketIoClientDotNet.dll</PackagePath>
+      <Modified>2017-04-20T20:29:40.720</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\bin\x86\Debug\Core\WinPluginTest.exe">
       <PackagePath>WinPluginTest.exe</PackagePath>
-      <Modified>2017-04-05T18:18:03.079</Modified>
+      <Modified>2017-04-20T20:29:41.721</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
