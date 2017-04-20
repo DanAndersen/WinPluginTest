@@ -1,0 +1,1 @@
+C:\Dev\HoloLens\WinPluginTest\App\WinPluginTest\WinPluginTest.csproj;x86
