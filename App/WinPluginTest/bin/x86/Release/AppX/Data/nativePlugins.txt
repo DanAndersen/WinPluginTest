@@ -1,0 +1,2 @@
+MicStreamSelector.dll
+SharingClient.dll
